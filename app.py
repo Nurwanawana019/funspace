@@ -15,3 +15,6 @@ def luas_segitiga():
         print("Luas persegi adalah: ",luas)
 
         luas_persegi_panjang()
+
+    # Maharani
+    
